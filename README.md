@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 🔭  I'm currently working on C#, HTML, CSS and JavaScript
-- 👋  I've experience with PhpStorm, Visual Studio Code, Visual Studio
+- 👋  I've experience with  Visual Studio Code, Visual Studio
 - 🌱  I'm currently learning .Net 5 and .Net 6
 - 📫  How to reach me: mozturkceng@gmail.com
 - ⚡  Always remember: done is better than perfect
