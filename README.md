@@ -36,10 +36,7 @@
 <br>
 </br>
 <h1></h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozturkmuhammed&show_icons=true&theme=radical&locale=en&layout=compact" alt="ozturkmuhammed"  width="40%" /></p>
-<a href="https://github.com/ozturkmuhammed/">
-    <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=ozturkmuhammed&show_icons=true&hide_border=true" />
- </a>
+
 
 
 
