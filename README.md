@@ -11,7 +11,7 @@
 
 - 🔭  I'm currently working on C#, HTML, CSS and JavaScript
 - 👋  I've experience with  Visual Studio Code, Visual Studio
-- 🌱  I'm currently learning .Net 5 and .Net 6
+- 🌱  I worked with all versions of .net
 - 📫  How to reach me: mozturkceng@gmail.com
 - ⚡  Always remember: done is better than perfect
 
